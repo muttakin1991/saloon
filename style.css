@@ -1,0 +1,94 @@
+.home{
+    height: 600px;
+    background-image: url("image/cover.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    /* opacity: 6; */
+    /* position: absolute; */
+    
+}
+.nav-div{
+    /* position: relative; */
+    
+    
+}
+.brand-logo{
+
+}
+.navbar-div{
+}
+.icon a{
+    margin-left: 8px;
+    padding-right: 10px;
+}
+.navbar-div ul li{
+    margin-left:30px;
+}
+.description{
+    /* margin-top: 140px; */
+}
+.description-text{
+    margin-top: 65px;
+    /* width: 600px; */
+}
+.description-img{
+    margin-top: 70px;
+    /* width: 550px; */
+}
+.description-img img{
+    
+    width: 100%;
+    background-position: center center;
+}
+.infastructure{
+    /* position: relative; */
+  
+}
+.infastructure-div{
+    background-color:rgb(170, 245, 193);
+    border-radius: 30px;
+}
+.box-shado img{
+    border-radius: 10px 100px / 120px;
+    box-shadow: 10px 5px 5px green;
+}
+.service-text{
+    /* width:500px;
+    margin-left: 450px; */
+}
+.service-price{
+    border-right: 2px solid tomato;
+    border-left: 2px solid black;
+    border-top: 2px solid rgba(231, 40, 168, 0.123);
+    border-bottom: 2px solid green;
+    border-radius: 10px;
+    background-color:rgb(143, 202, 167);
+    margin-top: 5px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    box-shadow: 0 0 10px 5px goldenrod;
+    
+}
+.service-price ul li{
+    list-style-type: none;
+    margin-top:5px;
+    color: black;
+}
+.footer-up{
+    border-bottom: 1px solid white;
+}
+.footer{
+    margin-top: 10px;
+    padding-top:10px;
+    background-color: black;
+    color: white;
+}
+.footer-icon svg{
+    margin-right: 5px;
+    margin-top: 8px;
+    margin-left:10px;
+}
